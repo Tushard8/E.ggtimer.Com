@@ -1,0 +1,10 @@
+Couple of features implemented as an improvement:
+
+BDD approach is followed : Required Feature file is written with scenarios and respective step definition files are
+created using page object model.
+
+Report - I have used cucumber reports to track test run results.(Please refer 'overview-features.html' for results in
+graphical & tabular form
+
+Logging - I have tried to use logging which helps us keep a track of every action performed during test run, which in turn
+helps us to debug test failures and find root cause
